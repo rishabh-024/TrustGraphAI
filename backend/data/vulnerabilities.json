@@ -1,0 +1,110 @@
+[
+    {
+        "id": "VULN-001",
+        "cve_id": "CVE-2026-1000",
+        "affected_resource_id": "RES-001",
+        "severity": "critical",
+        "description": "Synthetic critical vulnerability affecting the payment API",
+        "status": "under_review",
+        "is_synthetic": true
+    },
+    {
+        "id": "VULN-002",
+        "cve_id": "CVE-2026-1001",
+        "affected_resource_id": "RES-002",
+        "severity": "high",
+        "description": "Synthetic security finding for customer-db",
+        "status": "open",
+        "is_synthetic": true
+    },
+    {
+        "id": "VULN-003",
+        "cve_id": "CVE-2026-1002",
+        "affected_resource_id": "RES-003",
+        "severity": "medium",
+        "description": "Synthetic security finding for HR-db",
+        "status": "open",
+        "is_synthetic": true
+    },
+    {
+        "id": "VULN-004",
+        "cve_id": "CVE-2026-1003",
+        "affected_resource_id": "RES-004",
+        "severity": "low",
+        "description": "Synthetic security finding for admin-api",
+        "status": "under_review",
+        "is_synthetic": true
+    },
+    {
+        "id": "VULN-005",
+        "cve_id": "CVE-2026-1004",
+        "affected_resource_id": "RES-005",
+        "severity": "critical",
+        "description": "Synthetic security finding for dev-cluster",
+        "status": "under_review",
+        "is_synthetic": true
+    },
+    {
+        "id": "VULN-006",
+        "cve_id": "CVE-2026-1005",
+        "affected_resource_id": "RES-006",
+        "severity": "high",
+        "description": "Synthetic security finding for billing-api",
+        "status": "under_review",
+        "is_synthetic": true
+    },
+    {
+        "id": "VULN-007",
+        "cve_id": "CVE-2026-1006",
+        "affected_resource_id": "RES-007",
+        "severity": "medium",
+        "description": "Synthetic security finding for notification-api",
+        "status": "open",
+        "is_synthetic": true
+    },
+    {
+        "id": "VULN-008",
+        "cve_id": "CVE-2026-1007",
+        "affected_resource_id": "RES-008",
+        "severity": "low",
+        "description": "Synthetic security finding for reporting-db",
+        "status": "under_review",
+        "is_synthetic": true
+    },
+    {
+        "id": "VULN-009",
+        "cve_id": "CVE-2026-1008",
+        "affected_resource_id": "RES-009",
+        "severity": "critical",
+        "description": "Synthetic security finding for auth-api",
+        "status": "under_review",
+        "is_synthetic": true
+    },
+    {
+        "id": "VULN-010",
+        "cve_id": "CVE-2026-1009",
+        "affected_resource_id": "RES-010",
+        "severity": "high",
+        "description": "Synthetic security finding for identity-service",
+        "status": "under_review",
+        "is_synthetic": true
+    },
+    {
+        "id": "VULN-011",
+        "cve_id": "CVE-2026-1010",
+        "affected_resource_id": "RES-011",
+        "severity": "medium",
+        "description": "Synthetic security finding for production-cluster",
+        "status": "under_review",
+        "is_synthetic": true
+    },
+    {
+        "id": "VULN-012",
+        "cve_id": "CVE-2026-1011",
+        "affected_resource_id": "RES-012",
+        "severity": "low",
+        "description": "Synthetic security finding for staging-cluster",
+        "status": "under_review",
+        "is_synthetic": true
+    }
+]

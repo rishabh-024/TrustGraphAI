@@ -1,0 +1,668 @@
+[
+    {
+        "id": "PERM-001",
+        "relationship_id": "REL-001",
+        "identity_id": "ID-001",
+        "resource_id": "RES-001",
+        "permission": "invoke",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-003",
+        "relationship_id": "REL-003",
+        "identity_id": "ID-001",
+        "resource_id": "RES-003",
+        "permission": "read",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-004",
+        "relationship_id": "REL-004",
+        "identity_id": "ID-001",
+        "resource_id": "RES-004",
+        "permission": "admin",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-005",
+        "relationship_id": "REL-005",
+        "identity_id": "ID-001",
+        "resource_id": "RES-005",
+        "permission": "execute",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-006",
+        "relationship_id": "REL-006",
+        "identity_id": "ID-022",
+        "resource_id": "RES-035",
+        "permission": "execute",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-007",
+        "relationship_id": "REL-007",
+        "identity_id": "ID-010",
+        "resource_id": "RES-028",
+        "permission": "write",
+        "is_active": false,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-008",
+        "relationship_id": "REL-008",
+        "identity_id": "ID-024",
+        "resource_id": "RES-017",
+        "permission": "admin",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-009",
+        "relationship_id": "REL-009",
+        "identity_id": "ID-004",
+        "resource_id": "RES-020",
+        "permission": "admin",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-010",
+        "relationship_id": "REL-010",
+        "identity_id": "ID-012",
+        "resource_id": "RES-011",
+        "permission": "admin",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-011",
+        "relationship_id": "REL-011",
+        "identity_id": "ID-011",
+        "resource_id": "RES-032",
+        "permission": "read",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-012",
+        "relationship_id": "REL-012",
+        "identity_id": "ID-010",
+        "resource_id": "RES-016",
+        "permission": "read",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-013",
+        "relationship_id": "REL-013",
+        "identity_id": "ID-003",
+        "resource_id": "RES-006",
+        "permission": "invoke",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-014",
+        "relationship_id": "REL-014",
+        "identity_id": "ID-018",
+        "resource_id": "RES-009",
+        "permission": "write",
+        "is_active": false,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-015",
+        "relationship_id": "REL-015",
+        "identity_id": "ID-006",
+        "resource_id": "RES-017",
+        "permission": "admin",
+        "is_active": false,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-016",
+        "relationship_id": "REL-016",
+        "identity_id": "ID-018",
+        "resource_id": "RES-013",
+        "permission": "execute",
+        "is_active": false,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-017",
+        "relationship_id": "REL-017",
+        "identity_id": "ID-021",
+        "resource_id": "RES-024",
+        "permission": "invoke",
+        "is_active": false,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-018",
+        "relationship_id": "REL-018",
+        "identity_id": "ID-008",
+        "resource_id": "RES-015",
+        "permission": "read",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-019",
+        "relationship_id": "REL-019",
+        "identity_id": "ID-019",
+        "resource_id": "RES-015",
+        "permission": "admin",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-020",
+        "relationship_id": "REL-020",
+        "identity_id": "ID-003",
+        "resource_id": "RES-004",
+        "permission": "write",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-021",
+        "relationship_id": "REL-021",
+        "identity_id": "ID-011",
+        "resource_id": "RES-005",
+        "permission": "admin",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-022",
+        "relationship_id": "REL-022",
+        "identity_id": "ID-022",
+        "resource_id": "RES-032",
+        "permission": "write",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-023",
+        "relationship_id": "REL-023",
+        "identity_id": "ID-019",
+        "resource_id": "RES-031",
+        "permission": "write",
+        "is_active": false,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-024",
+        "relationship_id": "REL-024",
+        "identity_id": "ID-007",
+        "resource_id": "RES-007",
+        "permission": "read",
+        "is_active": false,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-025",
+        "relationship_id": "REL-025",
+        "identity_id": "ID-014",
+        "resource_id": "RES-027",
+        "permission": "invoke",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-026",
+        "relationship_id": "REL-026",
+        "identity_id": "ID-021",
+        "resource_id": "RES-007",
+        "permission": "read",
+        "is_active": false,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-027",
+        "relationship_id": "REL-027",
+        "identity_id": "ID-011",
+        "resource_id": "RES-007",
+        "permission": "write",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-028",
+        "relationship_id": "REL-028",
+        "identity_id": "ID-018",
+        "resource_id": "RES-029",
+        "permission": "write",
+        "is_active": false,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-029",
+        "relationship_id": "REL-029",
+        "identity_id": "ID-009",
+        "resource_id": "RES-030",
+        "permission": "write",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-030",
+        "relationship_id": "REL-030",
+        "identity_id": "ID-018",
+        "resource_id": "RES-007",
+        "permission": "read",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-031",
+        "relationship_id": "REL-031",
+        "identity_id": "ID-025",
+        "resource_id": "RES-016",
+        "permission": "write",
+        "is_active": false,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-032",
+        "relationship_id": "REL-032",
+        "identity_id": "ID-016",
+        "resource_id": "RES-014",
+        "permission": "invoke",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-033",
+        "relationship_id": "REL-033",
+        "identity_id": "ID-013",
+        "resource_id": "RES-001",
+        "permission": "invoke",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-034",
+        "relationship_id": "REL-034",
+        "identity_id": "ID-007",
+        "resource_id": "RES-019",
+        "permission": "write",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-035",
+        "relationship_id": "REL-035",
+        "identity_id": "ID-024",
+        "resource_id": "RES-035",
+        "permission": "read",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-036",
+        "relationship_id": "REL-036",
+        "identity_id": "ID-002",
+        "resource_id": "RES-031",
+        "permission": "admin",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-037",
+        "relationship_id": "REL-037",
+        "identity_id": "ID-017",
+        "resource_id": "RES-006",
+        "permission": "write",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-038",
+        "relationship_id": "REL-038",
+        "identity_id": "ID-003",
+        "resource_id": "RES-016",
+        "permission": "invoke",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-039",
+        "relationship_id": "REL-039",
+        "identity_id": "ID-008",
+        "resource_id": "RES-003",
+        "permission": "admin",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-040",
+        "relationship_id": "REL-040",
+        "identity_id": "ID-022",
+        "resource_id": "RES-034",
+        "permission": "execute",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-041",
+        "relationship_id": "REL-041",
+        "identity_id": "ID-022",
+        "resource_id": "RES-021",
+        "permission": "write",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-042",
+        "relationship_id": "REL-042",
+        "identity_id": "ID-005",
+        "resource_id": "RES-020",
+        "permission": "invoke",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-043",
+        "relationship_id": "REL-043",
+        "identity_id": "ID-003",
+        "resource_id": "RES-001",
+        "permission": "invoke",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-044",
+        "relationship_id": "REL-044",
+        "identity_id": "ID-018",
+        "resource_id": "RES-014",
+        "permission": "admin",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-045",
+        "relationship_id": "REL-045",
+        "identity_id": "ID-012",
+        "resource_id": "RES-005",
+        "permission": "write",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-046",
+        "relationship_id": "REL-046",
+        "identity_id": "ID-006",
+        "resource_id": "RES-029",
+        "permission": "admin",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-047",
+        "relationship_id": "REL-047",
+        "identity_id": "ID-021",
+        "resource_id": "RES-034",
+        "permission": "read",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-048",
+        "relationship_id": "REL-048",
+        "identity_id": "ID-004",
+        "resource_id": "RES-009",
+        "permission": "execute",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-049",
+        "relationship_id": "REL-049",
+        "identity_id": "ID-024",
+        "resource_id": "RES-010",
+        "permission": "execute",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-050",
+        "relationship_id": "REL-050",
+        "identity_id": "ID-007",
+        "resource_id": "RES-022",
+        "permission": "write",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-051",
+        "relationship_id": "REL-051",
+        "identity_id": "ID-016",
+        "resource_id": "RES-017",
+        "permission": "read",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-052",
+        "relationship_id": "REL-052",
+        "identity_id": "ID-014",
+        "resource_id": "RES-018",
+        "permission": "read",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-053",
+        "relationship_id": "REL-053",
+        "identity_id": "ID-025",
+        "resource_id": "RES-009",
+        "permission": "execute",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-054",
+        "relationship_id": "REL-054",
+        "identity_id": "ID-015",
+        "resource_id": "RES-028",
+        "permission": "admin",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-055",
+        "relationship_id": "REL-055",
+        "identity_id": "ID-003",
+        "resource_id": "RES-010",
+        "permission": "admin",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-056",
+        "relationship_id": "REL-056",
+        "identity_id": "ID-019",
+        "resource_id": "RES-010",
+        "permission": "invoke",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-057",
+        "relationship_id": "REL-057",
+        "identity_id": "ID-010",
+        "resource_id": "RES-024",
+        "permission": "read",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-058",
+        "relationship_id": "REL-058",
+        "identity_id": "ID-022",
+        "resource_id": "RES-016",
+        "permission": "read",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-059",
+        "relationship_id": "REL-059",
+        "identity_id": "ID-018",
+        "resource_id": "RES-027",
+        "permission": "admin",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-060",
+        "relationship_id": "REL-060",
+        "identity_id": "ID-006",
+        "resource_id": "RES-012",
+        "permission": "invoke",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-061",
+        "relationship_id": "REL-061",
+        "identity_id": "ID-024",
+        "resource_id": "RES-022",
+        "permission": "invoke",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-062",
+        "relationship_id": "REL-062",
+        "identity_id": "ID-006",
+        "resource_id": "RES-007",
+        "permission": "invoke",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-063",
+        "relationship_id": "REL-063",
+        "identity_id": "ID-008",
+        "resource_id": "RES-013",
+        "permission": "invoke",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-064",
+        "relationship_id": "REL-064",
+        "identity_id": "ID-011",
+        "resource_id": "RES-018",
+        "permission": "read",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-065",
+        "relationship_id": "REL-065",
+        "identity_id": "ID-021",
+        "resource_id": "RES-033",
+        "permission": "invoke",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-066",
+        "relationship_id": "REL-066",
+        "identity_id": "ID-004",
+        "resource_id": "RES-017",
+        "permission": "write",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-067",
+        "relationship_id": "REL-067",
+        "identity_id": "ID-004",
+        "resource_id": "RES-028",
+        "permission": "execute",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-068",
+        "relationship_id": "REL-068",
+        "identity_id": "ID-020",
+        "resource_id": "RES-033",
+        "permission": "read",
+        "is_active": false,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-069",
+        "relationship_id": "REL-069",
+        "identity_id": "ID-007",
+        "resource_id": "RES-017",
+        "permission": "read",
+        "is_active": false,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-070",
+        "relationship_id": "REL-070",
+        "identity_id": "ID-017",
+        "resource_id": "RES-035",
+        "permission": "write",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-071",
+        "relationship_id": "REL-071",
+        "identity_id": "ID-003",
+        "resource_id": "RES-022",
+        "permission": "admin",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-072",
+        "relationship_id": "REL-072",
+        "identity_id": "ID-014",
+        "resource_id": "RES-021",
+        "permission": "invoke",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-073",
+        "relationship_id": "REL-073",
+        "identity_id": "ID-005",
+        "resource_id": "RES-013",
+        "permission": "invoke",
+        "is_active": false,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-074",
+        "relationship_id": "REL-074",
+        "identity_id": "ID-024",
+        "resource_id": "RES-012",
+        "permission": "admin",
+        "is_active": true,
+        "is_synthetic": true
+    },
+    {
+        "id": "PERM-075",
+        "relationship_id": "REL-075",
+        "identity_id": "ID-018",
+        "resource_id": "RES-001",
+        "permission": "execute",
+        "is_active": true,
+        "is_synthetic": true
+    }
+]

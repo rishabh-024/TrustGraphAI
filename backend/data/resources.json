@@ -1,0 +1,317 @@
+[
+    {
+        "id": "RES-001",
+        "name": "payment-api",
+        "resource_type": "api",
+        "environment": "production",
+        "criticality": "critical",
+        "business_owner": "Data",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-002",
+        "name": "customer-db",
+        "resource_type": "database",
+        "environment": "production",
+        "criticality": "critical",
+        "business_owner": "Payments",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-003",
+        "name": "HR-db",
+        "resource_type": "cloud_resource",
+        "environment": "production",
+        "criticality": "critical",
+        "business_owner": "Security",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-004",
+        "name": "admin-api",
+        "resource_type": "application",
+        "environment": "production",
+        "criticality": "critical",
+        "business_owner": "Security",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-005",
+        "name": "dev-cluster",
+        "resource_type": "cluster",
+        "environment": "development",
+        "criticality": "low",
+        "business_owner": "Payments",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-006",
+        "name": "billing-api",
+        "resource_type": "storage",
+        "environment": "production",
+        "criticality": "critical",
+        "business_owner": "Payments",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-007",
+        "name": "notification-api",
+        "resource_type": "security_service",
+        "environment": "development",
+        "criticality": "low",
+        "business_owner": "Security",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-008",
+        "name": "reporting-db",
+        "resource_type": "api",
+        "environment": "production",
+        "criticality": "low",
+        "business_owner": "Payments",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-009",
+        "name": "auth-api",
+        "resource_type": "database",
+        "environment": "staging",
+        "criticality": "medium",
+        "business_owner": "Data",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-010",
+        "name": "identity-service",
+        "resource_type": "cloud_resource",
+        "environment": "development",
+        "criticality": "medium",
+        "business_owner": "Platform",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-011",
+        "name": "production-cluster",
+        "resource_type": "application",
+        "environment": "production",
+        "criticality": "critical",
+        "business_owner": "Security",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-012",
+        "name": "staging-cluster",
+        "resource_type": "cluster",
+        "environment": "staging",
+        "criticality": "low",
+        "business_owner": "Security",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-013",
+        "name": "analytics-db",
+        "resource_type": "storage",
+        "environment": "development",
+        "criticality": "high",
+        "business_owner": "Payments",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-014",
+        "name": "object-storage",
+        "resource_type": "security_service",
+        "environment": "development",
+        "criticality": "high",
+        "business_owner": "Platform",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-015",
+        "name": "backup-storage",
+        "resource_type": "api",
+        "environment": "development",
+        "criticality": "high",
+        "business_owner": "Platform",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-016",
+        "name": "logging-api",
+        "resource_type": "database",
+        "environment": "production",
+        "criticality": "medium",
+        "business_owner": "Data",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-017",
+        "name": "monitoring-dashboard",
+        "resource_type": "cloud_resource",
+        "environment": "staging",
+        "criticality": "high",
+        "business_owner": "Platform",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-018",
+        "name": "fraud-api",
+        "resource_type": "application",
+        "environment": "development",
+        "criticality": "medium",
+        "business_owner": "Payments",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-019",
+        "name": "inventory-db",
+        "resource_type": "cluster",
+        "environment": "production",
+        "criticality": "low",
+        "business_owner": "Security",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-020",
+        "name": "email-gateway",
+        "resource_type": "storage",
+        "environment": "staging",
+        "criticality": "medium",
+        "business_owner": "Payments",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-021",
+        "name": "secrets-vault",
+        "resource_type": "security_service",
+        "environment": "production",
+        "criticality": "critical",
+        "business_owner": "Platform",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-022",
+        "name": "CI-runner",
+        "resource_type": "api",
+        "environment": "development",
+        "criticality": "high",
+        "business_owner": "Security",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-023",
+        "name": "deployment-api",
+        "resource_type": "database",
+        "environment": "production",
+        "criticality": "high",
+        "business_owner": "Data",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-024",
+        "name": "audit-db",
+        "resource_type": "cloud_resource",
+        "environment": "staging",
+        "criticality": "high",
+        "business_owner": "Data",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-025",
+        "name": "employee-portal",
+        "resource_type": "application",
+        "environment": "production",
+        "criticality": "medium",
+        "business_owner": "Platform",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-026",
+        "name": "document-api",
+        "resource_type": "cluster",
+        "environment": "production",
+        "criticality": "high",
+        "business_owner": "Security",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-027",
+        "name": "AI-inference-api",
+        "resource_type": "storage",
+        "environment": "development",
+        "criticality": "high",
+        "business_owner": "Data",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-028",
+        "name": "model-registry",
+        "resource_type": "security_service",
+        "environment": "development",
+        "criticality": "medium",
+        "business_owner": "Security",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-029",
+        "name": "data-warehouse",
+        "resource_type": "api",
+        "environment": "production",
+        "criticality": "low",
+        "business_owner": "Data",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-030",
+        "name": "message-queue",
+        "resource_type": "database",
+        "environment": "production",
+        "criticality": "low",
+        "business_owner": "Payments",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-031",
+        "name": "customer-portal",
+        "resource_type": "cloud_resource",
+        "environment": "production",
+        "criticality": "high",
+        "business_owner": "Platform",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-032",
+        "name": "metrics-db",
+        "resource_type": "application",
+        "environment": "development",
+        "criticality": "medium",
+        "business_owner": "Payments",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-033",
+        "name": "config-service",
+        "resource_type": "cluster",
+        "environment": "staging",
+        "criticality": "medium",
+        "business_owner": "Data",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-034",
+        "name": "security-dashboard",
+        "resource_type": "storage",
+        "environment": "development",
+        "criticality": "medium",
+        "business_owner": "Payments",
+        "is_synthetic": true
+    },
+    {
+        "id": "RES-035",
+        "name": "file-storage",
+        "resource_type": "security_service",
+        "environment": "development",
+        "criticality": "high",
+        "business_owner": "Payments",
+        "is_synthetic": true
+    }
+]

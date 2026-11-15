@@ -1,0 +1,3002 @@
+[
+    {
+        "id": "ACT-0001",
+        "identity_id": "ID-003",
+        "resource_id": "RES-010",
+        "action": "admin",
+        "timestamp": "2026-10-25T04:47:29.538865+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0002",
+        "identity_id": "ID-006",
+        "resource_id": "RES-007",
+        "action": "invoke",
+        "timestamp": "2026-11-14T01:47:29.538875+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0003",
+        "identity_id": "ID-006",
+        "resource_id": "RES-029",
+        "action": "admin",
+        "timestamp": "2026-10-27T13:47:29.538882+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0004",
+        "identity_id": "ID-010",
+        "resource_id": "RES-028",
+        "action": "write",
+        "timestamp": "2026-11-13T01:47:29.538888+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0005",
+        "identity_id": "ID-011",
+        "resource_id": "RES-007",
+        "action": "write",
+        "timestamp": "2026-11-13T23:47:29.538893+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0006",
+        "identity_id": "ID-016",
+        "resource_id": "RES-014",
+        "action": "invoke",
+        "timestamp": "2026-11-04T22:47:29.538899+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0007",
+        "identity_id": "ID-018",
+        "resource_id": "RES-013",
+        "action": "execute",
+        "timestamp": "2026-09-28T13:47:29.538904+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0008",
+        "identity_id": "ID-024",
+        "resource_id": "RES-022",
+        "action": "invoke",
+        "timestamp": "2026-09-17T00:47:29.538909+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0009",
+        "identity_id": "ID-024",
+        "resource_id": "RES-010",
+        "action": "execute",
+        "timestamp": "2026-11-01T09:47:29.538914+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0010",
+        "identity_id": "ID-022",
+        "resource_id": "RES-032",
+        "action": "write",
+        "timestamp": "2026-10-20T03:47:29.538921+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0011",
+        "identity_id": "ID-001",
+        "resource_id": "RES-005",
+        "action": "execute",
+        "timestamp": "2026-10-20T02:47:29.538927+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0012",
+        "identity_id": "ID-014",
+        "resource_id": "RES-018",
+        "action": "read",
+        "timestamp": "2026-09-15T16:47:29.538933+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0013",
+        "identity_id": "ID-011",
+        "resource_id": "RES-032",
+        "action": "read",
+        "timestamp": "2026-09-26T04:47:29.538938+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0014",
+        "identity_id": "ID-006",
+        "resource_id": "RES-017",
+        "action": "admin",
+        "timestamp": "2026-09-17T05:47:29.538943+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0015",
+        "identity_id": "ID-021",
+        "resource_id": "RES-024",
+        "action": "invoke",
+        "timestamp": "2026-09-28T09:47:29.538949+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0016",
+        "identity_id": "ID-006",
+        "resource_id": "RES-029",
+        "action": "admin",
+        "timestamp": "2026-10-01T05:47:29.538954+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0017",
+        "identity_id": "ID-024",
+        "resource_id": "RES-010",
+        "action": "execute",
+        "timestamp": "2026-11-09T19:47:29.538960+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0018",
+        "identity_id": "ID-001",
+        "resource_id": "RES-003",
+        "action": "read",
+        "timestamp": "2026-10-10T20:47:29.538965+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0019",
+        "identity_id": "ID-006",
+        "resource_id": "RES-017",
+        "action": "admin",
+        "timestamp": "2026-10-09T17:47:29.538971+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0020",
+        "identity_id": "ID-006",
+        "resource_id": "RES-012",
+        "action": "invoke",
+        "timestamp": "2026-09-16T08:47:29.538976+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0021",
+        "identity_id": "ID-010",
+        "resource_id": "RES-024",
+        "action": "read",
+        "timestamp": "2026-10-31T16:47:29.538982+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0022",
+        "identity_id": "ID-017",
+        "resource_id": "RES-035",
+        "action": "write",
+        "timestamp": "2026-10-05T10:47:29.538987+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0023",
+        "identity_id": "ID-010",
+        "resource_id": "RES-024",
+        "action": "read",
+        "timestamp": "2026-09-14T07:47:29.538994+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0024",
+        "identity_id": "ID-003",
+        "resource_id": "RES-001",
+        "action": "invoke",
+        "timestamp": "2026-10-25T18:47:29.539000+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0025",
+        "identity_id": "ID-017",
+        "resource_id": "RES-006",
+        "action": "write",
+        "timestamp": "2026-10-08T05:47:29.539006+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0026",
+        "identity_id": "ID-024",
+        "resource_id": "RES-022",
+        "action": "invoke",
+        "timestamp": "2026-09-28T01:47:29.539012+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0027",
+        "identity_id": "ID-012",
+        "resource_id": "RES-005",
+        "action": "write",
+        "timestamp": "2026-11-13T06:47:29.539018+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0028",
+        "identity_id": "ID-003",
+        "resource_id": "RES-001",
+        "action": "invoke",
+        "timestamp": "2026-10-31T04:47:29.539023+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0029",
+        "identity_id": "ID-009",
+        "resource_id": "RES-030",
+        "action": "write",
+        "timestamp": "2026-10-16T10:47:29.539029+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0030",
+        "identity_id": "ID-012",
+        "resource_id": "RES-005",
+        "action": "write",
+        "timestamp": "2026-10-22T20:47:29.539035+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0031",
+        "identity_id": "ID-005",
+        "resource_id": "RES-013",
+        "action": "invoke",
+        "timestamp": "2026-11-14T20:47:29.539041+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0032",
+        "identity_id": "ID-010",
+        "resource_id": "RES-016",
+        "action": "read",
+        "timestamp": "2026-10-26T02:47:29.539046+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0033",
+        "identity_id": "ID-011",
+        "resource_id": "RES-018",
+        "action": "read",
+        "timestamp": "2026-09-29T07:47:29.539051+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0034",
+        "identity_id": "ID-006",
+        "resource_id": "RES-007",
+        "action": "invoke",
+        "timestamp": "2026-09-21T14:47:29.539056+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0035",
+        "identity_id": "ID-018",
+        "resource_id": "RES-027",
+        "action": "admin",
+        "timestamp": "2026-11-14T05:47:29.539061+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0036",
+        "identity_id": "ID-008",
+        "resource_id": "RES-003",
+        "action": "admin",
+        "timestamp": "2026-10-27T19:47:29.539067+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0037",
+        "identity_id": "ID-013",
+        "resource_id": "RES-001",
+        "action": "invoke",
+        "timestamp": "2026-10-20T13:47:29.539072+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0038",
+        "identity_id": "ID-006",
+        "resource_id": "RES-007",
+        "action": "invoke",
+        "timestamp": "2026-09-29T11:47:29.539077+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0039",
+        "identity_id": "ID-019",
+        "resource_id": "RES-010",
+        "action": "invoke",
+        "timestamp": "2026-09-29T17:47:29.539082+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0040",
+        "identity_id": "ID-021",
+        "resource_id": "RES-034",
+        "action": "read",
+        "timestamp": "2026-09-16T17:47:29.539088+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0041",
+        "identity_id": "ID-002",
+        "resource_id": "RES-031",
+        "action": "admin",
+        "timestamp": "2026-10-20T13:47:29.539093+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0042",
+        "identity_id": "ID-025",
+        "resource_id": "RES-016",
+        "action": "write",
+        "timestamp": "2026-11-05T09:47:29.539098+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0043",
+        "identity_id": "ID-005",
+        "resource_id": "RES-020",
+        "action": "invoke",
+        "timestamp": "2026-11-05T12:47:29.539103+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0044",
+        "identity_id": "ID-021",
+        "resource_id": "RES-007",
+        "action": "read",
+        "timestamp": "2026-10-28T05:47:29.539111+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0045",
+        "identity_id": "ID-017",
+        "resource_id": "RES-006",
+        "action": "write",
+        "timestamp": "2026-09-14T21:47:29.539117+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0046",
+        "identity_id": "ID-018",
+        "resource_id": "RES-009",
+        "action": "write",
+        "timestamp": "2026-10-30T03:47:29.539122+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0047",
+        "identity_id": "ID-025",
+        "resource_id": "RES-016",
+        "action": "write",
+        "timestamp": "2026-10-15T21:47:29.539128+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0048",
+        "identity_id": "ID-022",
+        "resource_id": "RES-034",
+        "action": "execute",
+        "timestamp": "2026-11-14T12:47:29.539133+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0049",
+        "identity_id": "ID-017",
+        "resource_id": "RES-006",
+        "action": "write",
+        "timestamp": "2026-11-11T19:47:29.539139+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0050",
+        "identity_id": "ID-014",
+        "resource_id": "RES-021",
+        "action": "invoke",
+        "timestamp": "2026-10-21T18:47:29.539145+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0051",
+        "identity_id": "ID-011",
+        "resource_id": "RES-018",
+        "action": "read",
+        "timestamp": "2026-11-06T22:47:29.539150+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0052",
+        "identity_id": "ID-018",
+        "resource_id": "RES-001",
+        "action": "execute",
+        "timestamp": "2026-10-22T10:47:29.539156+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0053",
+        "identity_id": "ID-008",
+        "resource_id": "RES-013",
+        "action": "invoke",
+        "timestamp": "2026-10-09T02:47:29.539162+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0054",
+        "identity_id": "ID-014",
+        "resource_id": "RES-027",
+        "action": "invoke",
+        "timestamp": "2026-11-11T07:47:29.539167+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0055",
+        "identity_id": "ID-008",
+        "resource_id": "RES-013",
+        "action": "invoke",
+        "timestamp": "2026-11-05T23:47:29.539172+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0056",
+        "identity_id": "ID-025",
+        "resource_id": "RES-009",
+        "action": "execute",
+        "timestamp": "2026-10-04T17:47:29.539177+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0057",
+        "identity_id": "ID-018",
+        "resource_id": "RES-001",
+        "action": "execute",
+        "timestamp": "2026-09-22T23:47:29.539182+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0058",
+        "identity_id": "ID-011",
+        "resource_id": "RES-005",
+        "action": "admin",
+        "timestamp": "2026-11-02T23:47:29.539187+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0059",
+        "identity_id": "ID-010",
+        "resource_id": "RES-016",
+        "action": "read",
+        "timestamp": "2026-10-25T12:47:29.539193+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0060",
+        "identity_id": "ID-005",
+        "resource_id": "RES-013",
+        "action": "invoke",
+        "timestamp": "2026-10-11T04:47:29.539198+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0061",
+        "identity_id": "ID-020",
+        "resource_id": "RES-033",
+        "action": "read",
+        "timestamp": "2026-10-14T05:47:29.539204+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0062",
+        "identity_id": "ID-022",
+        "resource_id": "RES-016",
+        "action": "read",
+        "timestamp": "2026-10-21T08:47:29.539209+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0063",
+        "identity_id": "ID-022",
+        "resource_id": "RES-021",
+        "action": "write",
+        "timestamp": "2026-09-28T04:47:29.539214+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0064",
+        "identity_id": "ID-018",
+        "resource_id": "RES-009",
+        "action": "write",
+        "timestamp": "2026-10-28T23:47:29.539219+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0065",
+        "identity_id": "ID-024",
+        "resource_id": "RES-035",
+        "action": "read",
+        "timestamp": "2026-09-20T08:47:29.539226+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0066",
+        "identity_id": "ID-022",
+        "resource_id": "RES-032",
+        "action": "write",
+        "timestamp": "2026-10-26T05:47:29.539232+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0067",
+        "identity_id": "ID-014",
+        "resource_id": "RES-021",
+        "action": "invoke",
+        "timestamp": "2026-11-09T07:47:29.539237+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0068",
+        "identity_id": "ID-001",
+        "resource_id": "RES-001",
+        "action": "invoke",
+        "timestamp": "2026-10-11T20:47:29.539242+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0069",
+        "identity_id": "ID-006",
+        "resource_id": "RES-007",
+        "action": "invoke",
+        "timestamp": "2026-10-21T20:47:29.539248+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0070",
+        "identity_id": "ID-025",
+        "resource_id": "RES-016",
+        "action": "write",
+        "timestamp": "2026-10-22T02:47:29.539253+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0071",
+        "identity_id": "ID-006",
+        "resource_id": "RES-012",
+        "action": "invoke",
+        "timestamp": "2026-11-09T15:47:29.539258+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0072",
+        "identity_id": "ID-024",
+        "resource_id": "RES-035",
+        "action": "read",
+        "timestamp": "2026-09-23T08:47:29.539264+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0073",
+        "identity_id": "ID-019",
+        "resource_id": "RES-010",
+        "action": "invoke",
+        "timestamp": "2026-11-05T21:47:29.539270+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0074",
+        "identity_id": "ID-011",
+        "resource_id": "RES-005",
+        "action": "admin",
+        "timestamp": "2026-10-24T00:47:29.539275+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0075",
+        "identity_id": "ID-011",
+        "resource_id": "RES-032",
+        "action": "read",
+        "timestamp": "2026-11-10T14:47:29.539281+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0076",
+        "identity_id": "ID-022",
+        "resource_id": "RES-021",
+        "action": "write",
+        "timestamp": "2026-09-25T22:47:29.539287+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0077",
+        "identity_id": "ID-022",
+        "resource_id": "RES-016",
+        "action": "read",
+        "timestamp": "2026-11-05T02:47:29.539292+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0078",
+        "identity_id": "ID-022",
+        "resource_id": "RES-034",
+        "action": "execute",
+        "timestamp": "2026-09-16T23:47:29.539298+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0079",
+        "identity_id": "ID-002",
+        "resource_id": "RES-031",
+        "action": "admin",
+        "timestamp": "2026-10-04T00:47:29.539303+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0080",
+        "identity_id": "ID-022",
+        "resource_id": "RES-016",
+        "action": "read",
+        "timestamp": "2026-11-08T20:47:29.539309+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0081",
+        "identity_id": "ID-010",
+        "resource_id": "RES-024",
+        "action": "read",
+        "timestamp": "2026-10-19T04:47:29.539314+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0082",
+        "identity_id": "ID-001",
+        "resource_id": "RES-005",
+        "action": "execute",
+        "timestamp": "2026-11-07T21:47:29.539319+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0083",
+        "identity_id": "ID-018",
+        "resource_id": "RES-001",
+        "action": "execute",
+        "timestamp": "2026-09-26T14:47:29.539324+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0084",
+        "identity_id": "ID-002",
+        "resource_id": "RES-031",
+        "action": "admin",
+        "timestamp": "2026-09-27T12:47:29.539330+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0085",
+        "identity_id": "ID-007",
+        "resource_id": "RES-007",
+        "action": "read",
+        "timestamp": "2026-10-06T13:47:29.539336+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0086",
+        "identity_id": "ID-017",
+        "resource_id": "RES-006",
+        "action": "write",
+        "timestamp": "2026-10-31T05:47:29.539341+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0087",
+        "identity_id": "ID-011",
+        "resource_id": "RES-018",
+        "action": "read",
+        "timestamp": "2026-11-07T22:47:29.539347+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0088",
+        "identity_id": "ID-006",
+        "resource_id": "RES-029",
+        "action": "admin",
+        "timestamp": "2026-10-11T20:47:29.539354+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0089",
+        "identity_id": "ID-003",
+        "resource_id": "RES-001",
+        "action": "invoke",
+        "timestamp": "2026-09-19T12:47:29.539359+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0090",
+        "identity_id": "ID-022",
+        "resource_id": "RES-032",
+        "action": "write",
+        "timestamp": "2026-10-18T13:47:29.539364+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0091",
+        "identity_id": "ID-021",
+        "resource_id": "RES-033",
+        "action": "invoke",
+        "timestamp": "2026-10-22T02:47:29.539369+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0092",
+        "identity_id": "ID-014",
+        "resource_id": "RES-021",
+        "action": "invoke",
+        "timestamp": "2026-11-12T13:47:29.539375+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0093",
+        "identity_id": "ID-003",
+        "resource_id": "RES-006",
+        "action": "invoke",
+        "timestamp": "2026-10-19T20:47:29.539380+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0094",
+        "identity_id": "ID-003",
+        "resource_id": "RES-001",
+        "action": "invoke",
+        "timestamp": "2026-11-05T19:47:29.539386+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0095",
+        "identity_id": "ID-004",
+        "resource_id": "RES-028",
+        "action": "execute",
+        "timestamp": "2026-11-15T14:47:29.539391+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0096",
+        "identity_id": "ID-015",
+        "resource_id": "RES-028",
+        "action": "admin",
+        "timestamp": "2026-11-11T01:47:29.539397+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0097",
+        "identity_id": "ID-020",
+        "resource_id": "RES-033",
+        "action": "read",
+        "timestamp": "2026-10-15T20:47:29.539402+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0098",
+        "identity_id": "ID-022",
+        "resource_id": "RES-016",
+        "action": "read",
+        "timestamp": "2026-11-11T07:47:29.539407+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0099",
+        "identity_id": "ID-002",
+        "resource_id": "RES-031",
+        "action": "admin",
+        "timestamp": "2026-09-29T20:47:29.539413+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0100",
+        "identity_id": "ID-003",
+        "resource_id": "RES-016",
+        "action": "invoke",
+        "timestamp": "2026-10-09T07:47:29.539418+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0101",
+        "identity_id": "ID-021",
+        "resource_id": "RES-024",
+        "action": "invoke",
+        "timestamp": "2026-11-13T05:47:29.539423+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0102",
+        "identity_id": "ID-022",
+        "resource_id": "RES-032",
+        "action": "write",
+        "timestamp": "2026-10-20T04:47:29.539428+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0103",
+        "identity_id": "ID-014",
+        "resource_id": "RES-021",
+        "action": "invoke",
+        "timestamp": "2026-10-11T21:47:29.539434+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0104",
+        "identity_id": "ID-018",
+        "resource_id": "RES-007",
+        "action": "read",
+        "timestamp": "2026-11-06T00:47:29.539439+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0105",
+        "identity_id": "ID-021",
+        "resource_id": "RES-024",
+        "action": "invoke",
+        "timestamp": "2026-09-21T10:47:29.539444+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0106",
+        "identity_id": "ID-021",
+        "resource_id": "RES-033",
+        "action": "invoke",
+        "timestamp": "2026-09-15T13:47:29.539449+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0107",
+        "identity_id": "ID-004",
+        "resource_id": "RES-028",
+        "action": "execute",
+        "timestamp": "2026-09-16T12:47:29.539454+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0108",
+        "identity_id": "ID-003",
+        "resource_id": "RES-010",
+        "action": "admin",
+        "timestamp": "2026-10-05T12:47:29.539462+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0109",
+        "identity_id": "ID-013",
+        "resource_id": "RES-001",
+        "action": "invoke",
+        "timestamp": "2026-10-07T17:47:29.539467+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0110",
+        "identity_id": "ID-016",
+        "resource_id": "RES-017",
+        "action": "read",
+        "timestamp": "2026-10-30T10:47:29.539474+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0111",
+        "identity_id": "ID-012",
+        "resource_id": "RES-011",
+        "action": "admin",
+        "timestamp": "2026-10-23T03:47:29.539479+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0112",
+        "identity_id": "ID-012",
+        "resource_id": "RES-005",
+        "action": "write",
+        "timestamp": "2026-10-03T09:47:29.539485+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0113",
+        "identity_id": "ID-001",
+        "resource_id": "RES-001",
+        "action": "invoke",
+        "timestamp": "2026-10-22T13:47:29.539490+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0114",
+        "identity_id": "ID-011",
+        "resource_id": "RES-018",
+        "action": "read",
+        "timestamp": "2026-11-03T00:47:29.539495+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0115",
+        "identity_id": "ID-017",
+        "resource_id": "RES-035",
+        "action": "write",
+        "timestamp": "2026-10-05T09:47:29.539500+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0116",
+        "identity_id": "ID-018",
+        "resource_id": "RES-014",
+        "action": "admin",
+        "timestamp": "2026-09-29T14:47:29.539506+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0117",
+        "identity_id": "ID-006",
+        "resource_id": "RES-012",
+        "action": "invoke",
+        "timestamp": "2026-10-19T05:47:29.539511+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0118",
+        "identity_id": "ID-016",
+        "resource_id": "RES-014",
+        "action": "invoke",
+        "timestamp": "2026-09-27T21:47:29.539516+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0119",
+        "identity_id": "ID-025",
+        "resource_id": "RES-016",
+        "action": "write",
+        "timestamp": "2026-10-11T15:47:29.539521+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0120",
+        "identity_id": "ID-005",
+        "resource_id": "RES-020",
+        "action": "invoke",
+        "timestamp": "2026-10-06T08:47:29.539527+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0121",
+        "identity_id": "ID-016",
+        "resource_id": "RES-017",
+        "action": "read",
+        "timestamp": "2026-09-20T01:47:29.539532+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0122",
+        "identity_id": "ID-021",
+        "resource_id": "RES-033",
+        "action": "invoke",
+        "timestamp": "2026-11-12T13:47:29.539538+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0123",
+        "identity_id": "ID-004",
+        "resource_id": "RES-017",
+        "action": "write",
+        "timestamp": "2026-09-26T08:47:29.539543+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0124",
+        "identity_id": "ID-018",
+        "resource_id": "RES-009",
+        "action": "write",
+        "timestamp": "2026-10-09T03:47:29.539548+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0125",
+        "identity_id": "ID-007",
+        "resource_id": "RES-017",
+        "action": "read",
+        "timestamp": "2026-10-07T17:47:29.539553+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0126",
+        "identity_id": "ID-003",
+        "resource_id": "RES-004",
+        "action": "write",
+        "timestamp": "2026-10-11T17:47:29.539558+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0127",
+        "identity_id": "ID-011",
+        "resource_id": "RES-032",
+        "action": "read",
+        "timestamp": "2026-10-06T15:47:29.539566+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0128",
+        "identity_id": "ID-012",
+        "resource_id": "RES-005",
+        "action": "write",
+        "timestamp": "2026-09-23T12:47:29.539571+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0129",
+        "identity_id": "ID-010",
+        "resource_id": "RES-016",
+        "action": "read",
+        "timestamp": "2026-10-18T16:47:29.539577+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0130",
+        "identity_id": "ID-005",
+        "resource_id": "RES-020",
+        "action": "invoke",
+        "timestamp": "2026-09-23T05:47:29.539584+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0131",
+        "identity_id": "ID-003",
+        "resource_id": "RES-022",
+        "action": "admin",
+        "timestamp": "2026-11-12T15:47:29.539589+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0132",
+        "identity_id": "ID-016",
+        "resource_id": "RES-014",
+        "action": "invoke",
+        "timestamp": "2026-09-22T20:47:29.539596+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0133",
+        "identity_id": "ID-025",
+        "resource_id": "RES-016",
+        "action": "write",
+        "timestamp": "2026-11-07T23:47:29.539601+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0134",
+        "identity_id": "ID-018",
+        "resource_id": "RES-009",
+        "action": "write",
+        "timestamp": "2026-09-22T15:47:29.539606+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0135",
+        "identity_id": "ID-022",
+        "resource_id": "RES-016",
+        "action": "read",
+        "timestamp": "2026-11-01T12:47:29.539611+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0136",
+        "identity_id": "ID-001",
+        "resource_id": "RES-005",
+        "action": "execute",
+        "timestamp": "2026-11-11T18:47:29.539617+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0137",
+        "identity_id": "ID-004",
+        "resource_id": "RES-020",
+        "action": "admin",
+        "timestamp": "2026-10-21T16:47:29.539622+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0138",
+        "identity_id": "ID-024",
+        "resource_id": "RES-010",
+        "action": "execute",
+        "timestamp": "2026-10-09T22:47:29.539627+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0139",
+        "identity_id": "ID-013",
+        "resource_id": "RES-001",
+        "action": "invoke",
+        "timestamp": "2026-10-01T09:47:29.539632+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0140",
+        "identity_id": "ID-024",
+        "resource_id": "RES-012",
+        "action": "admin",
+        "timestamp": "2026-09-18T12:47:29.539637+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0141",
+        "identity_id": "ID-019",
+        "resource_id": "RES-031",
+        "action": "write",
+        "timestamp": "2026-10-31T18:47:29.539643+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0142",
+        "identity_id": "ID-007",
+        "resource_id": "RES-022",
+        "action": "write",
+        "timestamp": "2026-09-23T19:47:29.539648+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0143",
+        "identity_id": "ID-021",
+        "resource_id": "RES-033",
+        "action": "invoke",
+        "timestamp": "2026-09-26T22:47:29.539654+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0144",
+        "identity_id": "ID-025",
+        "resource_id": "RES-016",
+        "action": "write",
+        "timestamp": "2026-10-07T08:47:29.539659+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0145",
+        "identity_id": "ID-006",
+        "resource_id": "RES-012",
+        "action": "invoke",
+        "timestamp": "2026-10-24T22:47:29.539664+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0146",
+        "identity_id": "ID-024",
+        "resource_id": "RES-022",
+        "action": "invoke",
+        "timestamp": "2026-10-22T03:47:29.539669+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0147",
+        "identity_id": "ID-011",
+        "resource_id": "RES-032",
+        "action": "read",
+        "timestamp": "2026-10-09T00:47:29.539675+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0148",
+        "identity_id": "ID-022",
+        "resource_id": "RES-034",
+        "action": "execute",
+        "timestamp": "2026-09-22T04:47:29.539680+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0149",
+        "identity_id": "ID-007",
+        "resource_id": "RES-019",
+        "action": "write",
+        "timestamp": "2026-10-07T17:47:29.539686+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0150",
+        "identity_id": "ID-011",
+        "resource_id": "RES-007",
+        "action": "write",
+        "timestamp": "2026-10-13T21:47:29.539693+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0151",
+        "identity_id": "ID-006",
+        "resource_id": "RES-017",
+        "action": "admin",
+        "timestamp": "2026-10-26T11:47:29.539699+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0152",
+        "identity_id": "ID-018",
+        "resource_id": "RES-001",
+        "action": "execute",
+        "timestamp": "2026-10-16T01:47:29.539704+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0153",
+        "identity_id": "ID-008",
+        "resource_id": "RES-003",
+        "action": "admin",
+        "timestamp": "2026-11-13T20:47:29.539709+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0154",
+        "identity_id": "ID-017",
+        "resource_id": "RES-006",
+        "action": "write",
+        "timestamp": "2026-11-15T00:47:29.539714+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0155",
+        "identity_id": "ID-021",
+        "resource_id": "RES-033",
+        "action": "invoke",
+        "timestamp": "2026-10-22T06:47:29.539720+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0156",
+        "identity_id": "ID-021",
+        "resource_id": "RES-034",
+        "action": "read",
+        "timestamp": "2026-10-28T00:47:29.539725+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0157",
+        "identity_id": "ID-007",
+        "resource_id": "RES-019",
+        "action": "write",
+        "timestamp": "2026-09-18T20:47:29.539730+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0158",
+        "identity_id": "ID-018",
+        "resource_id": "RES-009",
+        "action": "write",
+        "timestamp": "2026-09-23T03:47:29.539736+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0159",
+        "identity_id": "ID-022",
+        "resource_id": "RES-021",
+        "action": "write",
+        "timestamp": "2026-10-09T02:47:29.539741+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0160",
+        "identity_id": "ID-004",
+        "resource_id": "RES-009",
+        "action": "execute",
+        "timestamp": "2026-09-14T05:47:29.539746+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0161",
+        "identity_id": "ID-003",
+        "resource_id": "RES-006",
+        "action": "invoke",
+        "timestamp": "2026-10-21T12:47:29.539751+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0162",
+        "identity_id": "ID-003",
+        "resource_id": "RES-010",
+        "action": "admin",
+        "timestamp": "2026-10-31T17:47:29.539757+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0163",
+        "identity_id": "ID-008",
+        "resource_id": "RES-015",
+        "action": "read",
+        "timestamp": "2026-09-30T16:47:29.539762+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0164",
+        "identity_id": "ID-007",
+        "resource_id": "RES-017",
+        "action": "read",
+        "timestamp": "2026-10-03T21:47:29.539767+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0165",
+        "identity_id": "ID-019",
+        "resource_id": "RES-031",
+        "action": "write",
+        "timestamp": "2026-10-24T18:47:29.539772+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0166",
+        "identity_id": "ID-008",
+        "resource_id": "RES-003",
+        "action": "admin",
+        "timestamp": "2026-10-17T19:47:29.539779+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0167",
+        "identity_id": "ID-024",
+        "resource_id": "RES-022",
+        "action": "invoke",
+        "timestamp": "2026-11-09T06:47:29.539784+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0168",
+        "identity_id": "ID-018",
+        "resource_id": "RES-007",
+        "action": "read",
+        "timestamp": "2026-09-18T23:47:29.539789+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0169",
+        "identity_id": "ID-005",
+        "resource_id": "RES-013",
+        "action": "invoke",
+        "timestamp": "2026-10-15T11:47:29.539795+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0170",
+        "identity_id": "ID-014",
+        "resource_id": "RES-018",
+        "action": "read",
+        "timestamp": "2026-11-14T12:47:29.539800+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0171",
+        "identity_id": "ID-017",
+        "resource_id": "RES-035",
+        "action": "write",
+        "timestamp": "2026-11-05T03:47:29.539805+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0172",
+        "identity_id": "ID-024",
+        "resource_id": "RES-010",
+        "action": "execute",
+        "timestamp": "2026-09-19T07:47:29.539812+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0173",
+        "identity_id": "ID-007",
+        "resource_id": "RES-022",
+        "action": "write",
+        "timestamp": "2026-09-22T05:47:29.539817+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0174",
+        "identity_id": "ID-006",
+        "resource_id": "RES-017",
+        "action": "admin",
+        "timestamp": "2026-09-19T02:47:29.539822+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0175",
+        "identity_id": "ID-006",
+        "resource_id": "RES-007",
+        "action": "invoke",
+        "timestamp": "2026-11-13T13:47:29.539828+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0176",
+        "identity_id": "ID-018",
+        "resource_id": "RES-007",
+        "action": "read",
+        "timestamp": "2026-09-21T10:47:29.539834+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0177",
+        "identity_id": "ID-024",
+        "resource_id": "RES-022",
+        "action": "invoke",
+        "timestamp": "2026-09-16T21:47:29.539840+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0178",
+        "identity_id": "ID-015",
+        "resource_id": "RES-028",
+        "action": "admin",
+        "timestamp": "2026-11-05T18:47:29.539845+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0179",
+        "identity_id": "ID-010",
+        "resource_id": "RES-028",
+        "action": "write",
+        "timestamp": "2026-11-12T12:47:29.539851+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0180",
+        "identity_id": "ID-021",
+        "resource_id": "RES-033",
+        "action": "invoke",
+        "timestamp": "2026-11-05T19:47:29.539856+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0181",
+        "identity_id": "ID-016",
+        "resource_id": "RES-014",
+        "action": "invoke",
+        "timestamp": "2026-09-30T20:47:29.539861+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0182",
+        "identity_id": "ID-016",
+        "resource_id": "RES-017",
+        "action": "read",
+        "timestamp": "2026-10-07T23:47:29.539867+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0183",
+        "identity_id": "ID-003",
+        "resource_id": "RES-022",
+        "action": "admin",
+        "timestamp": "2026-10-10T22:47:29.539872+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0184",
+        "identity_id": "ID-003",
+        "resource_id": "RES-010",
+        "action": "admin",
+        "timestamp": "2026-09-20T19:47:29.539877+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0185",
+        "identity_id": "ID-011",
+        "resource_id": "RES-018",
+        "action": "read",
+        "timestamp": "2026-09-24T04:47:29.539883+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0186",
+        "identity_id": "ID-017",
+        "resource_id": "RES-006",
+        "action": "write",
+        "timestamp": "2026-11-12T21:47:29.539894+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0187",
+        "identity_id": "ID-009",
+        "resource_id": "RES-030",
+        "action": "write",
+        "timestamp": "2026-10-08T20:47:29.539899+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0188",
+        "identity_id": "ID-016",
+        "resource_id": "RES-014",
+        "action": "invoke",
+        "timestamp": "2026-10-15T18:47:29.539904+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0189",
+        "identity_id": "ID-024",
+        "resource_id": "RES-010",
+        "action": "execute",
+        "timestamp": "2026-09-30T05:47:29.539910+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0190",
+        "identity_id": "ID-004",
+        "resource_id": "RES-020",
+        "action": "admin",
+        "timestamp": "2026-10-12T17:47:29.539915+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0191",
+        "identity_id": "ID-021",
+        "resource_id": "RES-007",
+        "action": "read",
+        "timestamp": "2026-11-05T06:47:29.539920+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0192",
+        "identity_id": "ID-003",
+        "resource_id": "RES-006",
+        "action": "invoke",
+        "timestamp": "2026-09-20T03:47:29.539926+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0193",
+        "identity_id": "ID-001",
+        "resource_id": "RES-004",
+        "action": "admin",
+        "timestamp": "2026-11-11T09:47:29.539931+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0194",
+        "identity_id": "ID-013",
+        "resource_id": "RES-001",
+        "action": "invoke",
+        "timestamp": "2026-11-04T23:47:29.539937+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0195",
+        "identity_id": "ID-012",
+        "resource_id": "RES-011",
+        "action": "admin",
+        "timestamp": "2026-09-29T09:47:29.539944+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0196",
+        "identity_id": "ID-009",
+        "resource_id": "RES-030",
+        "action": "write",
+        "timestamp": "2026-10-26T19:47:29.539949+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0197",
+        "identity_id": "ID-003",
+        "resource_id": "RES-004",
+        "action": "write",
+        "timestamp": "2026-09-25T20:47:29.539954+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0198",
+        "identity_id": "ID-017",
+        "resource_id": "RES-006",
+        "action": "write",
+        "timestamp": "2026-11-03T08:47:29.539959+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0199",
+        "identity_id": "ID-003",
+        "resource_id": "RES-022",
+        "action": "admin",
+        "timestamp": "2026-10-25T07:47:29.539964+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0200",
+        "identity_id": "ID-018",
+        "resource_id": "RES-013",
+        "action": "execute",
+        "timestamp": "2026-09-20T07:47:29.539969+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0201",
+        "identity_id": "ID-008",
+        "resource_id": "RES-015",
+        "action": "read",
+        "timestamp": "2026-11-14T10:47:29.539975+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0202",
+        "identity_id": "ID-016",
+        "resource_id": "RES-014",
+        "action": "invoke",
+        "timestamp": "2026-09-26T11:47:29.539981+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0203",
+        "identity_id": "ID-001",
+        "resource_id": "RES-004",
+        "action": "admin",
+        "timestamp": "2026-10-31T20:47:29.539987+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0204",
+        "identity_id": "ID-024",
+        "resource_id": "RES-017",
+        "action": "admin",
+        "timestamp": "2026-11-04T21:47:29.539992+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0205",
+        "identity_id": "ID-007",
+        "resource_id": "RES-017",
+        "action": "read",
+        "timestamp": "2026-11-06T00:47:29.539999+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0206",
+        "identity_id": "ID-006",
+        "resource_id": "RES-007",
+        "action": "invoke",
+        "timestamp": "2026-10-08T10:47:29.540004+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0207",
+        "identity_id": "ID-004",
+        "resource_id": "RES-028",
+        "action": "execute",
+        "timestamp": "2026-09-26T01:47:29.540009+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0208",
+        "identity_id": "ID-018",
+        "resource_id": "RES-027",
+        "action": "admin",
+        "timestamp": "2026-10-03T17:47:29.540015+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0209",
+        "identity_id": "ID-010",
+        "resource_id": "RES-028",
+        "action": "write",
+        "timestamp": "2026-09-14T15:47:29.540020+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0210",
+        "identity_id": "ID-006",
+        "resource_id": "RES-012",
+        "action": "invoke",
+        "timestamp": "2026-09-21T19:47:29.540025+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0211",
+        "identity_id": "ID-004",
+        "resource_id": "RES-020",
+        "action": "admin",
+        "timestamp": "2026-10-05T20:47:29.540030+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0212",
+        "identity_id": "ID-019",
+        "resource_id": "RES-010",
+        "action": "invoke",
+        "timestamp": "2026-09-18T03:47:29.540036+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0213",
+        "identity_id": "ID-011",
+        "resource_id": "RES-018",
+        "action": "read",
+        "timestamp": "2026-09-15T22:47:29.540041+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0214",
+        "identity_id": "ID-011",
+        "resource_id": "RES-032",
+        "action": "read",
+        "timestamp": "2026-11-08T19:47:29.540047+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0215",
+        "identity_id": "ID-003",
+        "resource_id": "RES-004",
+        "action": "write",
+        "timestamp": "2026-11-10T02:47:29.540053+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0216",
+        "identity_id": "ID-017",
+        "resource_id": "RES-006",
+        "action": "write",
+        "timestamp": "2026-09-23T10:47:29.540058+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0217",
+        "identity_id": "ID-007",
+        "resource_id": "RES-022",
+        "action": "write",
+        "timestamp": "2026-09-25T17:47:29.540064+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0218",
+        "identity_id": "ID-006",
+        "resource_id": "RES-012",
+        "action": "invoke",
+        "timestamp": "2026-10-03T13:47:29.540069+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0219",
+        "identity_id": "ID-018",
+        "resource_id": "RES-009",
+        "action": "write",
+        "timestamp": "2026-09-16T19:47:29.540075+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0220",
+        "identity_id": "ID-014",
+        "resource_id": "RES-021",
+        "action": "invoke",
+        "timestamp": "2026-09-15T04:47:29.540080+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0221",
+        "identity_id": "ID-010",
+        "resource_id": "RES-024",
+        "action": "read",
+        "timestamp": "2026-10-08T04:47:29.540085+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0222",
+        "identity_id": "ID-015",
+        "resource_id": "RES-028",
+        "action": "admin",
+        "timestamp": "2026-10-17T18:47:29.540090+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0223",
+        "identity_id": "ID-025",
+        "resource_id": "RES-009",
+        "action": "execute",
+        "timestamp": "2026-10-11T05:47:29.540095+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0224",
+        "identity_id": "ID-005",
+        "resource_id": "RES-020",
+        "action": "invoke",
+        "timestamp": "2026-10-10T06:47:29.540100+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0225",
+        "identity_id": "ID-007",
+        "resource_id": "RES-019",
+        "action": "write",
+        "timestamp": "2026-10-14T18:47:29.540106+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0226",
+        "identity_id": "ID-006",
+        "resource_id": "RES-007",
+        "action": "invoke",
+        "timestamp": "2026-11-09T23:47:29.540112+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0227",
+        "identity_id": "ID-010",
+        "resource_id": "RES-016",
+        "action": "read",
+        "timestamp": "2026-11-07T18:47:29.540117+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0228",
+        "identity_id": "ID-018",
+        "resource_id": "RES-009",
+        "action": "write",
+        "timestamp": "2026-10-14T21:47:29.540123+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0229",
+        "identity_id": "ID-005",
+        "resource_id": "RES-013",
+        "action": "invoke",
+        "timestamp": "2026-11-10T14:47:29.540129+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0230",
+        "identity_id": "ID-021",
+        "resource_id": "RES-024",
+        "action": "invoke",
+        "timestamp": "2026-10-11T15:47:29.540134+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0231",
+        "identity_id": "ID-019",
+        "resource_id": "RES-010",
+        "action": "invoke",
+        "timestamp": "2026-09-15T04:47:29.540140+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0232",
+        "identity_id": "ID-003",
+        "resource_id": "RES-016",
+        "action": "invoke",
+        "timestamp": "2026-09-25T11:47:29.540145+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0233",
+        "identity_id": "ID-021",
+        "resource_id": "RES-034",
+        "action": "read",
+        "timestamp": "2026-11-06T20:47:29.540150+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0234",
+        "identity_id": "ID-011",
+        "resource_id": "RES-005",
+        "action": "admin",
+        "timestamp": "2026-09-20T16:47:29.540156+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0235",
+        "identity_id": "ID-018",
+        "resource_id": "RES-007",
+        "action": "read",
+        "timestamp": "2026-11-06T11:47:29.540162+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0236",
+        "identity_id": "ID-005",
+        "resource_id": "RES-013",
+        "action": "invoke",
+        "timestamp": "2026-10-15T08:47:29.540167+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0237",
+        "identity_id": "ID-017",
+        "resource_id": "RES-006",
+        "action": "write",
+        "timestamp": "2026-09-27T17:47:29.540172+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0238",
+        "identity_id": "ID-019",
+        "resource_id": "RES-010",
+        "action": "invoke",
+        "timestamp": "2026-09-28T20:47:29.540178+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0239",
+        "identity_id": "ID-002",
+        "resource_id": "RES-031",
+        "action": "admin",
+        "timestamp": "2026-11-13T05:47:29.540184+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0240",
+        "identity_id": "ID-002",
+        "resource_id": "RES-031",
+        "action": "admin",
+        "timestamp": "2026-09-16T17:47:29.540190+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0241",
+        "identity_id": "ID-012",
+        "resource_id": "RES-005",
+        "action": "write",
+        "timestamp": "2026-10-16T18:47:29.540195+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0242",
+        "identity_id": "ID-014",
+        "resource_id": "RES-027",
+        "action": "invoke",
+        "timestamp": "2026-11-03T11:47:29.540200+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0243",
+        "identity_id": "ID-012",
+        "resource_id": "RES-011",
+        "action": "admin",
+        "timestamp": "2026-11-03T14:47:29.540206+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0244",
+        "identity_id": "ID-003",
+        "resource_id": "RES-006",
+        "action": "invoke",
+        "timestamp": "2026-10-01T10:47:29.540212+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0245",
+        "identity_id": "ID-007",
+        "resource_id": "RES-022",
+        "action": "write",
+        "timestamp": "2026-10-10T21:47:29.540217+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0246",
+        "identity_id": "ID-012",
+        "resource_id": "RES-005",
+        "action": "write",
+        "timestamp": "2026-11-02T06:47:29.540223+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0247",
+        "identity_id": "ID-022",
+        "resource_id": "RES-021",
+        "action": "write",
+        "timestamp": "2026-09-15T03:47:29.540228+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0248",
+        "identity_id": "ID-024",
+        "resource_id": "RES-012",
+        "action": "admin",
+        "timestamp": "2026-09-25T19:47:29.540233+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0249",
+        "identity_id": "ID-024",
+        "resource_id": "RES-017",
+        "action": "admin",
+        "timestamp": "2026-11-02T10:47:29.540239+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0250",
+        "identity_id": "ID-024",
+        "resource_id": "RES-017",
+        "action": "admin",
+        "timestamp": "2026-09-19T04:47:29.540244+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0251",
+        "identity_id": "ID-002",
+        "resource_id": "RES-031",
+        "action": "admin",
+        "timestamp": "2026-10-08T21:47:29.540250+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0252",
+        "identity_id": "ID-011",
+        "resource_id": "RES-018",
+        "action": "read",
+        "timestamp": "2026-09-24T21:47:29.540255+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0253",
+        "identity_id": "ID-003",
+        "resource_id": "RES-010",
+        "action": "admin",
+        "timestamp": "2026-10-23T09:47:29.540260+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0254",
+        "identity_id": "ID-004",
+        "resource_id": "RES-028",
+        "action": "execute",
+        "timestamp": "2026-11-05T23:47:29.540266+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0255",
+        "identity_id": "ID-010",
+        "resource_id": "RES-024",
+        "action": "read",
+        "timestamp": "2026-11-06T05:47:29.540271+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0256",
+        "identity_id": "ID-011",
+        "resource_id": "RES-018",
+        "action": "read",
+        "timestamp": "2026-10-01T17:47:29.540276+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0257",
+        "identity_id": "ID-010",
+        "resource_id": "RES-028",
+        "action": "write",
+        "timestamp": "2026-10-27T21:47:29.540282+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0258",
+        "identity_id": "ID-004",
+        "resource_id": "RES-020",
+        "action": "admin",
+        "timestamp": "2026-11-15T01:47:29.540288+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0259",
+        "identity_id": "ID-022",
+        "resource_id": "RES-034",
+        "action": "execute",
+        "timestamp": "2026-10-28T16:47:29.540293+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0260",
+        "identity_id": "ID-007",
+        "resource_id": "RES-019",
+        "action": "write",
+        "timestamp": "2026-10-22T00:47:29.540298+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0261",
+        "identity_id": "ID-021",
+        "resource_id": "RES-024",
+        "action": "invoke",
+        "timestamp": "2026-11-15T01:47:29.540305+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0262",
+        "identity_id": "ID-010",
+        "resource_id": "RES-024",
+        "action": "read",
+        "timestamp": "2026-10-31T17:47:29.540311+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0263",
+        "identity_id": "ID-007",
+        "resource_id": "RES-022",
+        "action": "write",
+        "timestamp": "2026-10-01T06:47:29.540316+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0264",
+        "identity_id": "ID-004",
+        "resource_id": "RES-017",
+        "action": "write",
+        "timestamp": "2026-09-29T00:47:29.540322+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0265",
+        "identity_id": "ID-011",
+        "resource_id": "RES-032",
+        "action": "read",
+        "timestamp": "2026-10-12T19:47:29.540328+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0266",
+        "identity_id": "ID-010",
+        "resource_id": "RES-024",
+        "action": "read",
+        "timestamp": "2026-11-14T02:47:29.540334+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0267",
+        "identity_id": "ID-011",
+        "resource_id": "RES-032",
+        "action": "read",
+        "timestamp": "2026-10-19T23:47:29.540339+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0268",
+        "identity_id": "ID-018",
+        "resource_id": "RES-001",
+        "action": "execute",
+        "timestamp": "2026-10-12T04:47:29.540344+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0269",
+        "identity_id": "ID-008",
+        "resource_id": "RES-003",
+        "action": "admin",
+        "timestamp": "2026-11-05T21:47:29.540350+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0270",
+        "identity_id": "ID-001",
+        "resource_id": "RES-004",
+        "action": "admin",
+        "timestamp": "2026-10-18T23:47:29.540357+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0271",
+        "identity_id": "ID-006",
+        "resource_id": "RES-012",
+        "action": "invoke",
+        "timestamp": "2026-09-17T20:47:29.540362+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0272",
+        "identity_id": "ID-003",
+        "resource_id": "RES-006",
+        "action": "invoke",
+        "timestamp": "2026-10-09T10:47:29.540368+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0273",
+        "identity_id": "ID-013",
+        "resource_id": "RES-001",
+        "action": "invoke",
+        "timestamp": "2026-10-09T12:47:29.540373+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0274",
+        "identity_id": "ID-007",
+        "resource_id": "RES-017",
+        "action": "read",
+        "timestamp": "2026-11-08T23:47:29.540379+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0275",
+        "identity_id": "ID-022",
+        "resource_id": "RES-021",
+        "action": "write",
+        "timestamp": "2026-10-17T17:47:29.540384+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0276",
+        "identity_id": "ID-018",
+        "resource_id": "RES-014",
+        "action": "admin",
+        "timestamp": "2026-11-01T08:47:29.540389+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0277",
+        "identity_id": "ID-004",
+        "resource_id": "RES-028",
+        "action": "execute",
+        "timestamp": "2026-09-22T16:47:29.540395+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0278",
+        "identity_id": "ID-007",
+        "resource_id": "RES-017",
+        "action": "read",
+        "timestamp": "2026-10-03T04:47:29.540400+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0279",
+        "identity_id": "ID-006",
+        "resource_id": "RES-029",
+        "action": "admin",
+        "timestamp": "2026-10-16T17:47:29.540405+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0280",
+        "identity_id": "ID-016",
+        "resource_id": "RES-014",
+        "action": "invoke",
+        "timestamp": "2026-11-06T22:47:29.540412+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0281",
+        "identity_id": "ID-007",
+        "resource_id": "RES-019",
+        "action": "write",
+        "timestamp": "2026-10-29T20:47:29.540417+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0282",
+        "identity_id": "ID-011",
+        "resource_id": "RES-005",
+        "action": "admin",
+        "timestamp": "2026-09-20T18:47:29.540423+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0283",
+        "identity_id": "ID-007",
+        "resource_id": "RES-007",
+        "action": "read",
+        "timestamp": "2026-09-23T02:47:29.540429+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0284",
+        "identity_id": "ID-024",
+        "resource_id": "RES-022",
+        "action": "invoke",
+        "timestamp": "2026-09-28T14:47:29.540434+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0285",
+        "identity_id": "ID-024",
+        "resource_id": "RES-012",
+        "action": "admin",
+        "timestamp": "2026-09-21T20:47:29.540439+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0286",
+        "identity_id": "ID-005",
+        "resource_id": "RES-020",
+        "action": "invoke",
+        "timestamp": "2026-11-02T19:47:29.540445+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0287",
+        "identity_id": "ID-012",
+        "resource_id": "RES-011",
+        "action": "admin",
+        "timestamp": "2026-10-06T16:47:29.540450+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0288",
+        "identity_id": "ID-022",
+        "resource_id": "RES-034",
+        "action": "execute",
+        "timestamp": "2026-10-23T06:47:29.540455+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0289",
+        "identity_id": "ID-021",
+        "resource_id": "RES-034",
+        "action": "read",
+        "timestamp": "2026-10-03T09:47:29.540461+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0290",
+        "identity_id": "ID-022",
+        "resource_id": "RES-021",
+        "action": "write",
+        "timestamp": "2026-10-07T07:47:29.540466+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0291",
+        "identity_id": "ID-022",
+        "resource_id": "RES-035",
+        "action": "execute",
+        "timestamp": "2026-11-10T20:47:29.540471+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0292",
+        "identity_id": "ID-003",
+        "resource_id": "RES-016",
+        "action": "invoke",
+        "timestamp": "2026-11-09T03:47:29.540477+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0293",
+        "identity_id": "ID-004",
+        "resource_id": "RES-017",
+        "action": "write",
+        "timestamp": "2026-10-13T21:47:29.540483+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0294",
+        "identity_id": "ID-014",
+        "resource_id": "RES-021",
+        "action": "invoke",
+        "timestamp": "2026-11-12T04:47:29.540488+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0295",
+        "identity_id": "ID-018",
+        "resource_id": "RES-001",
+        "action": "execute",
+        "timestamp": "2026-09-21T02:47:29.540493+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0296",
+        "identity_id": "ID-003",
+        "resource_id": "RES-001",
+        "action": "invoke",
+        "timestamp": "2026-09-25T01:47:29.540498+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0297",
+        "identity_id": "ID-004",
+        "resource_id": "RES-017",
+        "action": "write",
+        "timestamp": "2026-11-02T20:47:29.540503+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0298",
+        "identity_id": "ID-018",
+        "resource_id": "RES-027",
+        "action": "admin",
+        "timestamp": "2026-11-06T21:47:29.540508+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0299",
+        "identity_id": "ID-010",
+        "resource_id": "RES-016",
+        "action": "read",
+        "timestamp": "2026-10-03T15:47:29.540514+00:00",
+        "result": "success",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    },
+    {
+        "id": "ACT-0300",
+        "identity_id": "ID-010",
+        "resource_id": "RES-028",
+        "action": "write",
+        "timestamp": "2026-10-25T13:47:29.540520+00:00",
+        "result": "denied",
+        "source": "synthetic_activity_generator",
+        "is_synthetic": true
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "id": "ID-001",
+        "name": "payment-bot",
+        "identity_type": "service_account",
+        "environment": "development",
+        "owner": "Payments",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-002",
+        "name": "backup-agent",
+        "identity_type": "api_identity",
+        "environment": "production",
+        "owner": "Security",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-003",
+        "name": "reporting-agent",
+        "identity_type": "machine_identity",
+        "environment": "production",
+        "owner": "Platform",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-004",
+        "name": "cloud-api",
+        "identity_type": "ai_agent",
+        "environment": "production",
+        "owner": "Payments",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-005",
+        "name": "billing-service",
+        "identity_type": "service_account",
+        "environment": "development",
+        "owner": "HR",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-006",
+        "name": "notification-bot",
+        "identity_type": "api_identity",
+        "environment": "production",
+        "owner": "HR",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-007",
+        "name": "data-pipeline",
+        "identity_type": "machine_identity",
+        "environment": "staging",
+        "owner": "Payments",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-008",
+        "name": "analytics-agent",
+        "identity_type": "ai_agent",
+        "environment": "production",
+        "owner": "Payments",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-009",
+        "name": "inventory-service",
+        "identity_type": "service_account",
+        "environment": "production",
+        "owner": "Platform",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-010",
+        "name": "auth-service",
+        "identity_type": "api_identity",
+        "environment": "development",
+        "owner": "HR",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-011",
+        "name": "deployment-bot",
+        "identity_type": "machine_identity",
+        "environment": "production",
+        "owner": "HR",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-012",
+        "name": "monitoring-agent",
+        "identity_type": "ai_agent",
+        "environment": "production",
+        "owner": "HR",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-013",
+        "name": "customer-support-bot",
+        "identity_type": "service_account",
+        "environment": "staging",
+        "owner": "Platform",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-014",
+        "name": "fraud-detection-agent",
+        "identity_type": "api_identity",
+        "environment": "staging",
+        "owner": "HR",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-015",
+        "name": "email-service",
+        "identity_type": "machine_identity",
+        "environment": "staging",
+        "owner": "Payments",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-016",
+        "name": "hr-integration",
+        "identity_type": "ai_agent",
+        "environment": "production",
+        "owner": "Data",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-017",
+        "name": "devops-agent",
+        "identity_type": "service_account",
+        "environment": "staging",
+        "owner": "Security",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-018",
+        "name": "security-scanner",
+        "identity_type": "api_identity",
+        "environment": "production",
+        "owner": "Platform",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-019",
+        "name": "logging-service",
+        "identity_type": "machine_identity",
+        "environment": "staging",
+        "owner": "Payments",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-020",
+        "name": "document-processor",
+        "identity_type": "ai_agent",
+        "environment": "production",
+        "owner": "Data",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-021",
+        "name": "ai-assistant-agent",
+        "identity_type": "service_account",
+        "environment": "production",
+        "owner": "Security",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-022",
+        "name": "scheduler-service",
+        "identity_type": "api_identity",
+        "environment": "staging",
+        "owner": "HR",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-023",
+        "name": "warehouse-bot",
+        "identity_type": "machine_identity",
+        "environment": "staging",
+        "owner": "Payments",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-024",
+        "name": "audit-agent",
+        "identity_type": "ai_agent",
+        "environment": "development",
+        "owner": "Data",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    },
+    {
+        "id": "ID-025",
+        "name": "database-maintenance",
+        "identity_type": "service_account",
+        "environment": "development",
+        "owner": "Payments",
+        "status": "active",
+        "created_at": "2026-01-15T10:00:00Z",
+        "is_synthetic": true
+    }
+]
