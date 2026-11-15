@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+networkx
+pandas
+numpy
+langgraph
+langgraph-checkpoint-sqlite
+pyjwt
+pwdlib[argon2]
+google-genai
+pytest
+httpx
+ruff
+pip-audit
